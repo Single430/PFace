@@ -10,3 +10,6 @@ pface.py继承于faceui.py实现基于PyQt的界面
 )(dlib库提取68个人脸特征点的模型文件，需要下载到项目路径下)
 
 需要的库文件：dlib、cv2、PyQt、numpy、shutil
+```
+pip install opencv-python PyQt5 dlib numpy shutil
+```
